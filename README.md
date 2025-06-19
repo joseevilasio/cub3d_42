@@ -6,11 +6,13 @@
 
 #### Finished in: 2025-04-12
 
-This project was done in partnership with [José Júnior](https://github.com/joseevilasio)
+This project was done in partnership with [Mariana Morais](https://github.com/marianaobmorais))
 
 ## About
 
-SOON
+Cub3D is a simple 3D game engine developed in C, inspired by the classic Wolfenstein 3D. It was built as part of the 42 School curriculum to deepen our understanding of low-level graphics programming, raycasting, and real-time rendering.
+
+The objective was to simulate a first-person view inside a maze using a raycasting algorithm. We implemented dynamic player movement, wall collisions, a minimap, texture mapping, and sprites — all rendered in a 2D context with 3D-like visuals using MiniLibX, a lightweight graphics library.
 
 ## Build
 
