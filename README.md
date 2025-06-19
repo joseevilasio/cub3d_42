@@ -6,7 +6,7 @@
 
 #### Finished in: 2025-04-12
 
-This project was done in partnership with [Mariana Morais](https://github.com/marianaobmorais))
+This project was done in partnership with [Mariana Morais](https://github.com/marianaobmorais)
 
 ## About
 
